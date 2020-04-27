@@ -1,3 +1,3 @@
 # learning-git-class
 
-we can rock
+no we can't
